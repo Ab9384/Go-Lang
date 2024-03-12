@@ -1,0 +1,4 @@
+This is a sample text that we need to store in a txt file using golang 
+Let's see how we can do that
+golang is a very powerful language and it is very easy to use
+Now let's see how we can store this text in a file
